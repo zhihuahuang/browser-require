@@ -1,0 +1,1 @@
+require.resolve('fs', { preload: true });
